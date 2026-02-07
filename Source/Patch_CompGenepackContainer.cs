@@ -7,6 +7,9 @@ using System.Reflection;
 using System;
 using UnityEngine;
 using Verse;
+#if RW15
+using LudeonTK;
+#endif
 
 namespace zed_0xff.GeneCollectorQOL;
 
